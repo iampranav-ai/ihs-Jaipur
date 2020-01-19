@@ -36,3 +36,9 @@ Totally responsive website made by our team need to be checked out.
 # PPT
 
 Main idea and explanation can be found in it.
+
+# For Training The Model
+
+fer2013.csv is required that can be downloaded from online.
+
+# ENJOY!!!
