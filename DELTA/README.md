@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-This is already a trained model.
+This is already a `trained model.`
 
 ### Prerequisites(if model not trained)
 Install these prerequisites before proceeding-
@@ -21,7 +21,7 @@ Install these prerequisites before proceeding-
 ```
 
 # Model Summary
-This is a working model that can be used by HERE APIs to develope there self driving concept with the help of ML, AI, and Data Science.
+This is a working model that can be used by `HERE APIs` to develope there self driving concept with the help of `ML, AI, and Data` Science.
 
 
 # To Run The Model
@@ -31,7 +31,7 @@ python Automobile Detections.py
 
 # Website
 
-Totally responsive website made by our team need to be checked out.
+`Totally responsive website` made by our team need to be checked out.
 
 # PPT
 
@@ -39,6 +39,6 @@ Main idea and explanation can be found in it.
 
 # For Training The Model
 
-fer2013.csv is required that can be downloaded from online.
+`fer2013.csv` is required that can be downloaded from online.
 
 # ENJOY!!!
